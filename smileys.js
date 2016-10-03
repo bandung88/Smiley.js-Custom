@@ -29,7 +29,7 @@
 			"*": "high-mouth",
 			"-": "nose",
 			"P": "middle-mouth",
-			"v": "middle-mouth"
+			"v": "middle-mouth",
 			"3": "middle-mouth"
 		},
 		oppositeSmileParts = {
