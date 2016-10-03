@@ -14,7 +14,8 @@
 			";-)",
 			":P",
 			"xD",
-			":v"
+			":v",
+			":3"
 		],
 		extras = {
 			"<3": true,
@@ -29,6 +30,7 @@
 			"-": "nose",
 			"P": "middle-mouth",
 			"v": "middle-mouth"
+			"3": "middle-mouth"
 		},
 		oppositeSmileParts = {
 			"p": "d",
